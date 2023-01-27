@@ -4,7 +4,12 @@
 
 
 🧪 This repository holds all shared code for the AiNed project 'AI for the Future Energy System (AIFES)'
-[Project planning](https://github.com/alliander-opensource/AIFES/projects) and [wiki pages](https://github.com/alliander-opensource/AIFES/wiki) are available from this repository as well.
+
+**Useful links**
+
+- [Project planning](https://github.com/alliander-opensource/AIFES/projects)
+- [wiki pages](https://github.com/alliander-opensource/AIFES/wiki)
+- [Sharepoint (not public)](https://alliander.sharepoint.com/:f:/r/teams/PortfolioSO/Gedeelde%20documenten/Collaboration%20Allianer%20-%20TenneT%20T-Prognose?csf=1&web=1&e=t7pG8a)
 
 
 ### 🎁 Repo functionality
@@ -31,8 +36,6 @@
 1. Add DOI 
 
 ### 🍁 Contributing
-
-**Tell people how to report problems and ask questions.**
 
 The source code in this repository is licensed under the terms of the [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html).
 Contributions and questions are welcome via issues.
