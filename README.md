@@ -1,6 +1,7 @@
 # AI for the Future Energy System
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![AIFES project image](https://user-images.githubusercontent.com/18208480/215054857-930a1edd-0fc7-463e-9bde-8c1258f1ec75.JPG)
 
 
 🧪 This repository holds all shared code for the AiNed project 'AI for the Future Energy System (AIFES)'
