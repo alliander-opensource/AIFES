@@ -7,7 +7,7 @@
 
 **Useful links**
 
-- [Milestone planning](https://github.com/alliander-opensource/AIFES/milestones)
+- [Milestone planning](https://github.com/alliander-opensource/AIFES/milestones?direction=asc&sort=due_date&state=open)
 - [wiki pages](https://github.com/alliander-opensource/AIFES/wiki)
 - [Sharepoint (not public)](https://alliander.sharepoint.com/:f:/r/teams/PortfolioSO/Gedeelde%20documenten/Collaboration%20Allianer%20-%20TenneT%20T-Prognose?csf=1&web=1&e=t7pG8a)
 
