@@ -13,12 +13,41 @@
 - [wiki pages](https://github.com/alliander-opensource/AIFES/wiki)
 - [Sharepoint (not public)](https://alliander.sharepoint.com/:f:/r/teams/PortfolioSO/Gedeelde%20documenten/Collaboration%20Allianer%20-%20TenneT%20T-Prognose?csf=1&web=1&e=t7pG8a)
 
+## The objective of this project, in the form of a poem
+Electricity flows through the land,
+A force of nature, ever grand,
+But with demand that’s on the rise,
+Our grids must evolve to be wise.
 
+Enter AI, with powers vast,
+To optimize the power cast,
+To manage energy supply,
+And help the planet to get by.
 
+With solar panels on the rise,
+And turbines spinning to the skies,
+Electric cars on every street,
+We need the grid to be complete.
 
+But variability is the bane,
+Of these renewable energy trains,
+The sun may hide, the wind may still,
+The power may just fall to nil.
 
+But with AI to lend a hand,
+We can create a better brand,
+Of grid that’s smart, that can adapt,
+To any change, without mishap.
 
+With data analyzed to a tee,
+AI can optimize the energy,
+Stored and released when it’s due,
+To power homes and cars anew.
 
+So let us look towards the sun,
+And harness wind until we’re done,
+Let AI take control of the grid,
+And let clean energy take the lead.
 
 
 
