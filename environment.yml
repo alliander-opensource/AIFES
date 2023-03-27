@@ -1,5 +1,7 @@
-name: sciencenotebooktemplate
+name: AIFES
 channels:
   - conda-forge
 dependencies:
-  - python==3.9.6
+  - python==3.10
+  - pre-commit==3.2.1
+  - jupyterlab==3.6.2

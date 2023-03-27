@@ -69,7 +69,10 @@ And let clean energy take the lead.
 
 **How to download needed data, run the code, etc.**
 
-1. Clone this repository as a template and run `pip install pre-commit` and `pre-commit install`.
+1. Clone this repository 
+1. Create virtual environment from yaml:
+`conda env create --file=environment.yml`
+1. run `pre-commit install`.
 1. Commit and push to _main_. (If a linter fails on commit, just re-run. It just meant the linter modified a file.)
 
 
