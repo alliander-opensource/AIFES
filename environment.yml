@@ -5,3 +5,4 @@ dependencies:
   - python==3.10
   - pre-commit==3.2.1
   - jupyterlab==3.6.2
+  - openstef==3.2.59
