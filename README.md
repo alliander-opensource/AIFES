@@ -3,7 +3,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![AIFES project image](https://user-images.githubusercontent.com/18208480/215054857-930a1edd-0fc7-463e-9bde-8c1258f1ec75.JPG)
 
-
 🧪 This repository holds all shared code for the AiNed project 'AI for the Future Energy System (AIFES)'
 
 **Useful links**
@@ -14,6 +13,7 @@
 - [Sharepoint (not public)](https://alliander.sharepoint.com/:f:/r/teams/PortfolioSO/Gedeelde%20documenten/Collaboration%20Allianer%20-%20TenneT%20T-Prognose?csf=1&web=1&e=t7pG8a)
 
 ## The objective of this project, in the form of a poem
+
 ```
 Electricity flows through the land,
 A force of nature, ever grand,
@@ -51,9 +51,6 @@ Let AI take control of the grid,
 And let clean energy take the lead.
 ```
 
-
-
-
 ### 🎁 Repo functionality
 
 **Automated steps**
@@ -69,16 +66,17 @@ And let clean energy take the lead.
 
 **How to download needed data, run the code, etc.**
 
-1. Clone this repository 
+1. Clone this repository
 1. Create virtual environment from yaml:
-`conda env create --file=environment.yml`
+   `conda env create --file=environment.yml`
 1. run `pre-commit install`.
+1. Download the data from [Sharepoint (not public)](https://alliander.sharepoint.com/:f:/r/teams/PortfolioSO/Gedeelde%20documenten/Collaboration%20Allianer%20-%20TenneT%20T-Prognose?csf=1&web=1&e=t7pG8a), and move it to the git-excluded .data folder
 1. Commit and push to _main_. (If a linter fails on commit, just re-run. It just meant the linter modified a file.)
 
-
 ### Todos
+
 1. Add to [Binder](https://mybinder.org/) and [Get a DOI](https://guides.github.com/activities/citable-code/) for your repo.
-1. Add DOI 
+1. Add DOI
 
 ### 🍁 Contributing
 
