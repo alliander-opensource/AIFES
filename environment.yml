@@ -2,11 +2,9 @@ name: AIFES
 channels:
   - conda-forge
 dependencies:
-  - python==3.10
-  - pre-commit==3.2.1
-  - jupyterlab==3.6.2
-  - ipynbname==2021.3.2
+  - python==3.9
+  - pre-commit~=3.2.1
+  - jupyterlab~=3.6.2
+  - ipynbname~=2021.3.2
   - pip:
-      - openstef==3.2.59
-      - feather==0.1.2
-      - kaleido==0.1.0.post1
+      - openstef~=3.2.59

@@ -35,3 +35,7 @@ repos:
         stages: [commit]
         exclude: ^recipes/.*
     rev: v2.3.1
+  - repo: https://github.com/srstevenson/nb-clean
+    rev: "2.4.0"
+    hooks:
+      - id: nb-clean
