@@ -69,9 +69,9 @@ And let clean energy take the lead.
 1. Clone this repository
 1. Create virtual environment from yaml:
    `conda env create --file=environment.yml`
-1. run `pre-commit install`.
-1. Download the data from [Sharepoint (not public)](https://alliander.sharepoint.com/:f:/r/teams/PortfolioSO/Gedeelde%20documenten/Collaboration%20Allianer%20-%20TenneT%20T-Prognose?csf=1&web=1&e=t7pG8a), and move it to the git-excluded .data folder
-1. Commit and push to _main_. (If a linter fails on commit, just re-run. It just meant the linter modified a file.)
+1. Run `pre-commit install`.
+1. Create a .data folder in the root of the project, this folder is excluded by git. Then, download the data from [Sharepoint (not public)](https://alliander.sharepoint.com/:f:/r/teams/PortfolioSO/Gedeelde%20documenten/Collaboration%20Allianer%20-%20TenneT%20T-Prognose?csf=1&web=1&e=t7pG8a), and move it to the .data folder
+1. Commit and push to _main_. Linting and clean-up of output cells is performed automatically. If a linter fails on commit, just re-run. It just meant the linter modified a file.
 
 ### Todos
 
