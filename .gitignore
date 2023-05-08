@@ -2,6 +2,9 @@
 # This is simpler and easier to understand
 # We'll ignore all .* files and then re-add some
 
+project/output/*
+
+
 # General hidden or unwanted
 .*
 ~*
