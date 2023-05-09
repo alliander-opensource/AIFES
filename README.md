@@ -81,7 +81,7 @@ And let clean energy take the lead.
 ## License
 This project is licensed under the [Apache License 2.0](https://github.com/alliander-opensource/AIFES/LICENSE.txt).
 
-### 🍁 Contributing
+## 🍁 Contributing
 
 Contributions and questions are welcome. For reference, refer to the [Code of Conduct](https://github.com/alliander-opensource/AIFES/CODE_OF_CONDUCT.md), [contributing guide](https://github.com/alliander-opensource/AIFES/CONTRIBUTING.md)
 and [security policy](https://github.com/alliander-opensource/AIFES/SECURITY.md).
