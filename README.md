@@ -78,9 +78,11 @@ And let clean energy take the lead.
 1. Add to [Binder](https://mybinder.org/) and [Get a DOI](https://guides.github.com/activities/citable-code/) for your repo.
 1. Add DOI
 
+## License
+This project is licensed under the [Apache License 2.0](https://github.com/alliander-opensource/AIFES/LICENSE.txt).
+
 ### 🍁 Contributing
 
-The source code in this repository is licensed under the terms of the [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html).
-Contributions and questions are welcome via issues.
-For reference, refer to the [contributing guide](https://github.com/dmyersturnbull/science-notebook-template/blob/main/CONTRIBUTING.md)
-and [security policy](https://github.com/dmyersturnbull/science-notebook-template/blob/main/SECURITY.md).
+Contributions and questions are welcome. For reference, refer to the [Code of Conduct](https://github.com/alliander-opensource/AIFES/CODE_OF_CONDUCT.md), [contributing guide](https://github.com/alliander-opensource/AIFES/CONTRIBUTING.md)
+and [security policy](https://github.com/alliander-opensource/AIFES/SECURITY.md).
+
