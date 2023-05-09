@@ -14,7 +14,7 @@ You can file bugs against, change requests for and questions about the project v
 information on using github issues.
 
 ## Community Guidelines
-This project follows the [GitHub community guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines).
+This project follows the following [Code of Conduct](https://github.com/alliander-opensource/AIFES/CODE_OF_CONDUCT.md).
 
 ## Source Code Headers
 
