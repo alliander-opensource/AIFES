@@ -6,3 +6,5 @@
 -->
 
 **Resolves:** #<<issue number>>
+    
+**Results:** <<link to place where results can be found. E.g. Sharepoint>>
