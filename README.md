@@ -57,7 +57,7 @@ And let clean energy take the lead.
 **Automated steps**
 
 - Automatic linting of Python, Markdown, config files, etc. using [pre-commit](https://pre-commit.com/)
-- Nice default GitHub settings (just install the [Probot settings app](https://github.com/apps/settings) to your repo
+- Nice default GitHub settings (just install the [Probot settings app](https://github.com/apps/settings) to your repo)
 - IDE hints via [EditorConfig](https://editorconfig.org/) with good defaults for most languages
 - [CodeMeta](https://codemeta.github.io/user-guide/) and [CITATION.cff](https://citation-file-format.github.io/)
 - Nice gitignore, dockerignore, changelog, and other misc files
