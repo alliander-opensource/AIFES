@@ -29,9 +29,9 @@ def infer_quantiles(columns: list[str]) -> list[int]:
 def shade_area_between_two_quantiles(fig, outer_quantile, inner_quantile, 
                                  outer_quantile_percentage, inner_quantile_percentage):
     if outer_quantile_percentage > inner_quantile_percentage:
-        name = f"{inner_quantile_percentage}%-{outer_quantile_percentage}% percentile"
+        name = f"{inner_quantile_percentage}%-{outer_quantile_percentage}% Percentile"
     else: 
-        name = f"{outer_quantile_percentage}%-{inner_quantile_percentage}% percentile"
+        name = f"{outer_quantile_percentage}%-{inner_quantile_percentage}% Percentile"
 
     fig.add_trace(go.Scatter(
         x=pd.concat([outer_quantile.index.to_series(), inner_quantile.index.to_series()[::-1]]),
@@ -40,23 +40,24 @@ def shade_area_between_two_quantiles(fig, outer_quantile, inner_quantile,
         fill="toself",
         fillcolor=get_quantile_fill_color_code_plasma(int(outer_quantile_percentage)),
         line_color='rgba(255,255,255,0)',
+        # line_shape="vh",
         showlegend=True,
         name=name,
     ))
 
 def plot_realized_and_forecast_lines(realized, forecast, horizon):
     # Plot realized and forecast lines
-    fig = pd.concat([forecast, realized], axis=1).plot(
-        title=f"Realized load and forecasted load (forecasting horizon: {horizon} hours)", labels=dict(value="Load (MW)", 
-                                                 index="Datetime (UTC)",
-                                                 variable="")
+    fig = pd.DataFrame(dict(Forecast=forecast, Realized=realized)).plot(
+        title=f"Realized load and forecasted load (forecasting horizon: {horizon} hours)", 
+        labels=dict(value="Load [MW]", index="Datetime [UTC]", variable=""),
+        template="plotly_white"
     )
     fig.update_traces(
-         line=dict(color=get_quantile_fill_color_code_plasma(quantile=50, opacity=1), width=2),
-         selector=lambda x: 'forecast' in x.name)
+         line=dict(color=get_quantile_fill_color_code_plasma(quantile=50, opacity=1), width=2, shape="vh"),
+         selector=lambda x: 'Forecast' in x.name)
     fig.update_traces(
-         line=dict(color="red", width=1.5),
-         selector=lambda x: 'realised' in x.name)
+         line=dict(color="red", width=1.5, shape="vh"),
+         selector=lambda x: 'Realized' in x.name)
     
     return fig
 
