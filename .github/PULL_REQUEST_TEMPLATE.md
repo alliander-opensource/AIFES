@@ -5,7 +5,7 @@
     You do not need to describe the pull request after doing that.
 -->
 
-**Resolves:** #<<issue number>>
+Resolves #<<issue number>>
     
 **Results:** <<link to place where results can be found. E.g. Sharepoint>>
 
