@@ -3,7 +3,7 @@
 # We'll ignore all .* files and then re-add some
 
 project/output/*
-
+project/results/*
 
 # General hidden or unwanted
 .*
@@ -73,3 +73,6 @@ deps/deps.jl
 !/.pre-commit-config.yaml
 !.npmignore
 !/.scrutinizer.yml
+project/20230731_WEW_total_customers_metrics.csv
+project/20230731_WEW_total_customers.csv
+project/results/43.Compare_SumForecastsCustomers_vs_ForecastSumCustomers.html
