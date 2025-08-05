@@ -1,4 +1,6 @@
 # AI for the Future Energy System
+Archived until new opportunities present itself. 
+Please reach out to OSPO or Frank Kreuwel for questions
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![AIFES project image](https://user-images.githubusercontent.com/18208480/215054857-930a1edd-0fc7-463e-9bde-8c1258f1ec75.JPG)
